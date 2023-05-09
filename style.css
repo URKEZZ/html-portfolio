@@ -1,0 +1,44 @@
+body {
+   background-color:  rgb(180 196 203);
+}
+
+.container {
+    background-color: white;
+    display: block;
+    margin: auto;
+    text-align: center;
+    width: 279px;
+    height: 433px;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-top: 200px;
+    border-radius: 10px;
+    box-shadow: 0px 9px 18px -4px rgb(156, 157, 158), 0px 2px 0px rgba(156, 157, 158);
+}
+
+
+
+img {
+    margin-top: 16px;
+    background-color: rgb(79, 138, 239);
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.col-2 {
+    color: black;
+    font-weight: 800;
+    font-family: 'Segoe UI';
+    line-height: 0.5;
+    font-size: 17px;
+}
+
+.col-3 {
+    margin-top: 30px;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Segoe UI';
+    color: rgb(147, 145, 145);
+    line-height: 0.5;
+}
+
